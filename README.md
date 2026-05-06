@@ -53,6 +53,8 @@ If any of this resonates — or if you simply want to talk about audit, agents, 
 
 <div align="center">
 
-<sub>set in JetBrains Mono · Lambenthan · MMXXVI</sub>
+<img src="assets/signature.svg" alt="在审计与大模型之间，记笔记的人" height="32">
+
+<sub>set in JetBrains Mono &amp; LXGW WenKai · Lambenthan · MMXXVI</sub>
 
 </div>
