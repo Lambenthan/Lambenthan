@@ -18,13 +18,13 @@ _Graduate researcher at the seam of_ &nbsp;**Audit**&nbsp; / &nbsp;**Large Langu
 
 ## About
 
-A graduate researcher at the intersection of audit, finance and large language models. Empirical research has been the through-line since my sophomore year — what changes is the instrument.
+A graduate researcher at the intersection of audit, finance and large language models. Empirical research has been the through-line throughout my studies — what changes is the instrument.
 
-- **Undergraduate · 2018 – 2022** — Three years of empirical work beginning in the second year, on merger waves, financial derivatives, and derivative-driven acquisition activity.
+- **Undergraduate years** — Several years of empirical work begun midway through, in corporate finance, with attention to derivatives and acquisition activity.
 
-- **Master's · 2023 – 2026** — Began in financial-statement fraud research; pivoted along with the LLM wave to studying how large models actually behave inside audit practice. Causal inference, my research group's home direction, runs alongside both threads and remains a continuing self-study.
+- **Master's years** — Began in fraud-related empirical research; pivoted along with the LLM wave to studying how large models actually behave inside audit practice. Causal inference, a direction long emphasised in my training, runs alongside both threads and remains a continuing self-study.
 
-- **Since 2023** — Worked through the LLM stack as it appeared, from classical machine learning and deep learning to prompt engineering, parameter-efficient fine-tuning and retrieval-augmented generation, anchored throughout in real audit and finance scenarios rather than benchmarks, in both engineering and research modes.
+- **In recent years** — Worked through the LLM stack as it appeared, from classical machine learning and deep learning to prompt engineering, parameter-efficient fine-tuning and retrieval-augmented generation, anchored throughout in real audit and finance scenarios rather than benchmarks, in both engineering and research modes.
 
 - **On causal inference** — Today it mostly lives inside paper narratives, a way of telling a clean story. I am interested in carrying it past the journal page into the actual decisions an audit team or a firm has to make.
 
@@ -38,7 +38,7 @@ A graduate researcher at the intersection of audit, finance and large language m
 
 - [**academic-agents**](https://github.com/Lambenthan/academic-agents) — A Claude Code skill suite for the day-to-day of academic work: research lookup, evidence binding, structured drafting, and verification before handoff. **56+ GitHub stars**.
 - [**paper-discipline-skills**](https://github.com/Lambenthan/paper-discipline-skills) — Eleven discipline skills for Chinese scholarly writing: terminology protection, citation auditing, batch-edit safety rails, pre-handoff verification.
-- [**ForenSight**](https://github.com/Lambenthan/ForenSight) — A multi-agent evidentiary-reasoning prototype for financial-fraud review: coordinated retrieval, anomaly screening, and narrative drafting under regulatory constraints.
+- [**ForenSight**](https://github.com/Lambenthan/ForenSight) — A multi-agent evidentiary-reasoning prototype for fraud review: coordinated retrieval, anomaly screening, and narrative drafting under regulatory constraints.
 - [**awesome-ai-research-writing**](https://github.com/Lambenthan/awesome-ai-research-writing) — A curated reading list on using LLMs for scholarly writing, without the polish-and-publish trap.
 - [**empirical-research-pipeline**](https://github.com/Lambenthan/empirical-research-pipeline) — A modular Claude Code skill chain covering the full empirical workflow, from data intake to final results.
 
@@ -46,24 +46,24 @@ A graduate researcher at the intersection of audit, finance and large language m
 
 ## Research Programme
 
-- **Bid Auditing with State–Action–Reward** &nbsp;·&nbsp; A reinforcement-learning-inspired formulation that frames procurement-audit decisions as a sequential policy under regulatory constraints, with reward shaping driven by audit standards and adversarial bidder behaviour.
+- **Sequential Policy Learning under Regulatory Constraints** &nbsp;·&nbsp; A reinforcement-learning-inspired formulation that frames regulated review as a sequential decision process, with reward shaping derived from compliance standards and from adversarial behaviour on the reviewed side.
 
-- **Procurement Audit Multi-Agent System** &nbsp;·&nbsp; Specialised LLM agents coordinated for retrieval, anomaly detection, compliance review and report drafting, built atop parameter-efficient fine-tuning and structured tool use.
+- **Multi-Agent Reasoning under Compliance Constraints** &nbsp;·&nbsp; Specialised LLM agents coordinated for retrieval, anomaly screening, review and report drafting, built atop parameter-efficient fine-tuning and structured tool use.
 
-- **Domain-Adaptive Foundation Models for Chinese Audit Corpora** &nbsp;·&nbsp; Continued pre-training and instruction tuning of open foundation models on Chinese audit standards, regulatory texts and case archives, with attention to evaluation under low-resource regulatory text.
+- **Domain-Adaptive Foundation Models for Regulatory Corpora** &nbsp;·&nbsp; Continued pre-training and instruction tuning of open foundation models on regulatory and accounting text, with attention to evaluation under low-resource conditions.
 
 - **Causal Inference × Large Language Models** &nbsp;·&nbsp; Two threads: surfacing candidate causal hypotheses from unstructured corporate disclosures with LLMs; and using DAG-based causal frameworks to constrain and audit LLM-driven decisions in audit and management contexts.
 
-- **Financial-Statement Fraud Detection** &nbsp;·&nbsp; Multi-modal fraud signals from text, accounting ratios and disclosure-network features, integrated under a unified scoring framework for early-warning analytics.
+- **Statement-Level Anomaly Detection** &nbsp;·&nbsp; Multi-modal signal integration across textual disclosures, accounting ratios and disclosure-network features, under a unified scoring framework for early-warning analytics.
 
-- **Empirical Notebooks (Legacy)** &nbsp;·&nbsp; Earlier undergraduate work on merger waves and derivative-driven acquisition activity. Surviving routines, interpolation utilities for Chinese R&D statistics, and LaTeX templates remain in active use.
+- **Empirical Notebooks (Legacy)** &nbsp;·&nbsp; Earlier undergraduate work in empirical corporate finance. Surviving routines, interpolation utilities for Chinese R&D statistics, and LaTeX templates remain in active use.
 
 ---
 
 ## Methods
 
 - **Parameter-Efficient Fine-Tuning** — LoRA, QLoRA, adapter tuning, prefix tuning.
-- **Domain Adaptation** — Continued pre-training and instruction tuning on Chinese regulatory and accounting corpora.
+- **Domain Adaptation** — Continued pre-training and instruction tuning on regulatory and accounting corpora.
 - **Retrieval-Augmented Generation** — Hybrid sparse–dense retrieval, document re-ranking, and citation-grounded generation.
 - **Multi-Agent Orchestration** — Specialised role decomposition with structured tool use and intermediate verification.
 - **Causal Identification** — Difference-in-differences, instrumental variables, propensity-score matching, regression discontinuity, DAG-based identification.
@@ -79,4 +79,4 @@ A graduate researcher at the intersection of audit, finance and large language m
 - **Causal & Empirical** — DoWhy · EconML · statsmodels · linearmodels · CausalImpact
 - **Experimentation** — Weights & Biases · MLflow · lm-eval-harness
 - **Workflow** — Claude Code · Anthropic API · Dify · Git · Overleaf
-- **Domain** — Audit · Financial-Statement Fraud · M&A · Financial Derivatives
+- **Domain** — Audit · Corporate Disclosures · M&A · Financial Derivatives
