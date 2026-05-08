@@ -46,9 +46,9 @@ A graduate researcher at the intersection of audit, finance and large language m
 
 ## Research Programme
 
-- **BidSAR** &nbsp;·&nbsp; _Bid Auditing with State-Action-Reward._ A reinforcement-learning-inspired formulation that frames procurement-audit decisions as a sequential policy under regulatory constraints, with reward shaping driven by audit standards and adversarial bidder behaviour.
+- **Bid Auditing with State–Action–Reward** &nbsp;·&nbsp; A reinforcement-learning-inspired formulation that frames procurement-audit decisions as a sequential policy under regulatory constraints, with reward shaping driven by audit standards and adversarial bidder behaviour.
 
-- **PAMAS** &nbsp;·&nbsp; _Procurement Audit Multi-Agent System._ Specialised LLM agents coordinated for retrieval, anomaly detection, compliance review and report drafting, built atop parameter-efficient fine-tuning and structured tool use.
+- **Procurement Audit Multi-Agent System** &nbsp;·&nbsp; Specialised LLM agents coordinated for retrieval, anomaly detection, compliance review and report drafting, built atop parameter-efficient fine-tuning and structured tool use.
 
 - **Domain-Adaptive Foundation Models for Chinese Audit Corpora** &nbsp;·&nbsp; Continued pre-training and instruction tuning of open foundation models on Chinese audit standards, regulatory texts and case archives, with attention to evaluation under low-resource regulatory text.
 
