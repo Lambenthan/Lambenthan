@@ -3,7 +3,7 @@
 <sub>────────────  ✦  ────────────</sub>
 
 <a href="https://github.com/Lambenthan">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Chenhan+Uni&animation=pop&color=2C4768&background=00000000&size=46&font=monospace&duration=2400&pause=3500&width=640&height=84&letterSpacing=normal&center=true&vCenter=true&multiline=false&repeat=true" alt="Chenhan Uni" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=46&duration=2400&pause=4000&color=2C4768&center=true&vCenter=true&multiline=false&repeat=true&width=640&height=84&lines=Chenhan+Uni" alt="Chenhan Uni" />
 </a>
 
 <sub>_a reading note from the seam of audit and AI_</sub>
@@ -43,17 +43,3 @@
 - 🤖 **ML / LLM** — PyTorch · Transformers · LangChain · PEFT · LoRA · RAG
 - 🧪 **Workflow** — Claude Code · MCP · Dify · Git · Overleaf
 - 🏛 **Domain** — Government Audit · Public Procurement · CIA · CMA
-
----
-
-<div align="center">
-
-<br />
-
-<img src="assets/signature.svg" alt="在审计与大模型之间，记笔记的人" height="30">
-
-<br />
-
-<sub>set in JetBrains Mono &amp; LXGW WenKai &nbsp;·&nbsp; Lambenthan &nbsp;·&nbsp; MMXXVI</sub>
-
-</div>
