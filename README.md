@@ -3,7 +3,7 @@
 <sub>────────────  ✦  ────────────</sub>
 
 <a href="https://github.com/Lambenthan">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=44&duration=180&pause=99999999&color=2C4768&center=true&vCenter=true&multiline=false&repeat=false&width=640&height=72&lines=Chan+Lambenthan" alt="Chan Lambenthan" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Chenhan+Uni&animation=pop&color=2C4768&background=00000000&size=46&font=monospace&duration=2400&pause=3500&width=640&height=84&letterSpacing=normal&center=true&vCenter=true&multiline=false&repeat=true" alt="Chenhan Uni" />
 </a>
 
 <sub>_a reading note from the seam of audit and AI_</sub>
