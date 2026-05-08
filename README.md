@@ -19,7 +19,25 @@
 
 <br />
 
-📚 _Graduate researcher at the seam of_ &nbsp;**Government Audit**&nbsp; / &nbsp;**Large Language Models**&nbsp; / &nbsp;**Multi-Agent Systems**&nbsp; / &nbsp;_a quiet writer on 小红书_
+📚 _Graduate researcher at the seam of_ &nbsp;**Audit & Finance**&nbsp; / &nbsp;**Large Language Models**&nbsp; / &nbsp;**Causal Inference**&nbsp; / &nbsp;_a quiet writer on 小红书_
+
+---
+
+## 👋 About Me
+
+A graduate researcher at the seam of audit, finance and large language models. Empirical research has been the through-line since my sophomore year — what changes is the instrument.
+
+- 🎓 **Undergraduate · 2018 – 2022**: Three years of empirical work starting from the second year — on M&A waves, financial derivatives, and the way derivatives reshape acquisition behaviour.
+
+- 🔬 **Master's · 2023 – 2026**: Began in financial-fraud research; pivoted along with the LLM wave to studying how large models actually behave inside audit practice. Causal inference, my research group's home direction, runs alongside both threads and is something I keep learning on my own.
+
+- 🤖 **Since 2023**: Worked through the stack as it appeared — classical ML and deep learning first, then prompt engineering, fine-tuning and RAG — always anchored in a real auditing or finance scenario rather than a benchmark, in both engineering and research mode.
+
+- 🧭 **On causal inference**: Today it mostly lives inside paper narratives — a way of telling a clean story. I would like to carry it past the journal page, into the actual decisions a firm or an audit team has to make.
+
+- 🛠 **On Claude Code**: The piece that finally turns a three-minute spark into a working artefact. It quietly fixes the gap I have always had between curiosity and ship.
+
+- ✍️ **After graduation**: Half research, half on-site — staying in audit / finance / management while sharing what I see at the intersection of LLMs, causal inference and industry practice. If you are looking for a thesis topic in this area, these field notes may hand you a thread to pull.
 
 ---
 
