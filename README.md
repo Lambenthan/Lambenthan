@@ -8,11 +8,6 @@
 
 <sub>────────────  ✦  ────────────</sub>
 
-<br />
-
-<a href="https://github.com/Lambenthan"><img src="https://komarev.com/ghpvc/?username=Lambenthan&style=flat-square&color=2C4768&labelColor=fdfcf7&label=profile+views" alt="profile views" /></a> &nbsp;
-<a href="https://github.com/Lambenthan?tab=followers"><img src="https://img.shields.io/github/followers/Lambenthan?style=flat-square&color=2C4768&labelColor=fdfcf7&label=followers" alt="followers" /></a>
-
 </div>
 
 <br />
