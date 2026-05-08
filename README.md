@@ -3,7 +3,7 @@
 <sub>────────────  ✦  ────────────</sub>
 
 <a href="https://github.com/Lambenthan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Tinos&weight=700&size=52&duration=2400&pause=4000&color=2C4768&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=88&lines=Chenhan+Uni" alt="Chenhan Uni" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Tinos&weight=700&size=52&duration=2400&pause=4000&color=2C4768&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=88&lines=Chan+Uni" alt="Chan Uni" />
 </a>
 
 <sub>────────────  ✦  ────────────</sub>
