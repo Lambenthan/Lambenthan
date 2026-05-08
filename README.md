@@ -2,7 +2,9 @@
 
 <sub>────────────  ✦  ────────────</sub>
 
-# Chan Lambenthan
+<a href="https://github.com/Lambenthan">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=44&duration=180&pause=99999999&color=2C4768&center=true&vCenter=true&multiline=false&repeat=false&width=640&height=72&lines=Chan+Lambenthan" alt="Chan Lambenthan" />
+</a>
 
 <sub>_a reading note from the seam of audit and AI_</sub>
 
@@ -10,113 +12,48 @@
 
 <br />
 
-<a href="https://github.com/Lambenthan">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&pause=2400&color=475569&center=true&vCenter=true&width=620&height=32&lines=currently+%E2%80%94+thesis+under+blind+review;researching+%E2%80%94+LLMs+for+procurement+audit;writing+%E2%80%94+small+notes%2C+slowly" alt="rotating tagline" />
-</a>
+<a href="https://github.com/Lambenthan"><img src="https://komarev.com/ghpvc/?username=Lambenthan&style=flat-square&color=2C4768&labelColor=fdfcf7&label=profile+views" alt="profile views" /></a> &nbsp;
+<a href="https://github.com/Lambenthan?tab=followers"><img src="https://img.shields.io/github/followers/Lambenthan?style=flat-square&color=2C4768&labelColor=fdfcf7&label=followers" alt="followers" /></a>
 
 </div>
 
 <br />
 
----
-
-### `i.` &nbsp; Selected work
-
-<table>
-<tr>
-<td width="35%" valign="top">
-
-**academic-agents** &nbsp;<sub>`2025–`</sub>
-
-<a href="https://github.com/Lambenthan/academic-agents"><img src="https://img.shields.io/github/stars/Lambenthan/academic-agents?style=flat&color=2C4768&labelColor=fdfcf7&label=stars" alt="stars" /></a>
-
-</td>
-<td valign="top">
-
-A toolkit of Claude Code agents for the day-to-day of academic writing — literature triage, evidence binding, draft polishing.
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**paper-discipline-skills** &nbsp;<sub>`2025–`</sub>
-
-<a href="https://github.com/Lambenthan/paper-discipline-skills"><img src="https://img.shields.io/github/stars/Lambenthan/paper-discipline-skills?style=flat&color=2C4768&labelColor=fdfcf7&label=stars" alt="stars" /></a>
-
-</td>
-<td valign="top">
-
-Eleven discipline skills for Chinese academic writing — terminology protection, citation auditing, batch-edit safety rails.
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**ForenSight** &nbsp;<sub>`2025`</sub>
-
-<a href="https://github.com/Lambenthan/ForenSight"><img src="https://img.shields.io/github/stars/Lambenthan/ForenSight?style=flat&color=2C4768&labelColor=fdfcf7&label=stars" alt="stars" /></a>
-
-</td>
-<td valign="top">
-
-A multi-agent prototype for evidentiary reasoning over financial fraud — coordinated retrieval, anomaly review, narrative drafting.
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**awesome-ai-research-writing** &nbsp;<sub>`2025–`</sub>
-
-<a href="https://github.com/Lambenthan/awesome-ai-research-writing"><img src="https://img.shields.io/github/stars/Lambenthan/awesome-ai-research-writing?style=flat&color=2C4768&labelColor=fdfcf7&label=stars" alt="stars" /></a>
-
-</td>
-<td valign="top">
-
-A curated reading list on using LLMs for scholarly writing without the polish-and-publish trap.
-
-</td>
-</tr>
-</table>
+📚 _Graduate researcher at the seam of_ &nbsp;**Government Audit**&nbsp; / &nbsp;**Large Language Models**&nbsp; / &nbsp;**Multi-Agent Systems**&nbsp; / &nbsp;_a quiet writer on 小红书_
 
 ---
 
-### `ii.` &nbsp; Research lines
+## 🏆 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- [**academic-agents**](https://github.com/Lambenthan/academic-agents): Claude Code skill suite for the day-to-day of academic work — research lookup, evidence binding, structured drafting, and verification before handoff. **56+ GitHub stars**.
+- [**paper-discipline-skills**](https://github.com/Lambenthan/paper-discipline-skills): Eleven discipline skills for Chinese scholarly writing — terminology protection, citation auditing, batch-edit safety rails, pre-handoff verification.
+- [**ForenSight**](https://github.com/Lambenthan/ForenSight): A multi-agent evidentiary-reasoning prototype for financial-fraud review — coordinated retrieval, anomaly review, and narrative drafting under regulatory constraints.
+- [**awesome-ai-research-writing**](https://github.com/Lambenthan/awesome-ai-research-writing): A curated reading list on using LLMs for scholarly writing — without the polish-and-publish trap.
+- [**empirical-research-pipeline**](https://github.com/Lambenthan/empirical-research-pipeline): A modular Claude Code skill chain covering the full empirical workflow, from data intake to final results.
 
-**BidSAR** &nbsp;<sub>`in progress`</sub>  
-_Bid Auditing with State-Action-Reward._ Modelling procurement audit as a sequential decision process under regulatory constraints.
+## 🔬 Research Lines
 
-</td>
-<td width="50%" valign="top">
+- 🧭 **BidSAR** — _Bid Auditing with State-Action-Reward._ Modelling procurement audit as a sequential decision process under regulatory constraints, with reinforcement-learning-inspired feedback.
+- 🧩 **PAMAS** — _Procurement Audit Multi-Agent System._ Specialised LLM agents coordinated for retrieval, anomaly detection, compliance review and report drafting, built atop LoRA, RAG and tool use.
+- 📓 **Field Notebooks** — Data interpolation routines for Chinese R&D statistics; LaTeX templates for academic writing; pipelines that turn scattered study materials into book-shaped documents.
 
-**PAMAS** &nbsp;<sub>`in progress`</sub>  
-_Procurement Audit Multi-Agent System._ Specialised LLM agents for retrieval, anomaly detection, compliance review and report drafting.
+## 🛠 Tech Stack
 
-</td>
-</tr>
-</table>
+- ⌨️ **Languages** — Python · SQL · LaTeX · Bash
+- 🤖 **ML / LLM** — PyTorch · Transformers · LangChain · PEFT · LoRA · RAG
+- 🧪 **Workflow** — Claude Code · MCP · Dify · Git · Overleaf
+- 🏛 **Domain** — Government Audit · Public Procurement · CIA · CMA
 
----
+## 🌐 Connect
 
-### `iii.` &nbsp; Instruments
+| Channel | Where |
+| --- | --- |
+| ✉️&nbsp; Email | [chning249454@gmail.com](mailto:chning249454@gmail.com) |
+| 📔&nbsp; 小红书 (notes on Claude Code in research) | [profile](https://www.xiaohongshu.com/user/profile/) |
+| 🎓&nbsp; Google Scholar | [profile](https://scholar.google.com/) |
+| 🐙&nbsp; GitHub | [Lambenthan](https://github.com/Lambenthan) |
 
-<sub>**Languages**</sub> &nbsp; Python · SQL · LaTeX · Bash  
-<sub>**ML / LLM**</sub> &nbsp;&nbsp; PyTorch · Transformers · LangChain · PEFT · LoRA  
-<sub>**Workflow**</sub> &nbsp;&nbsp; Claude Code · MCP · Dify · Git · Overleaf  
-<sub>**Domain**</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Government Audit · Procurement · CIA · CMA
-
----
-
-### `iv.` &nbsp; Quiet metrics
+## 📊 Activity
 
 <table>
 <tr>
@@ -144,11 +81,10 @@ _Procurement Audit Multi-Agent System._ Specialised LLM agents for retrieval, an
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lambenthan&hide_border=true&area=true&hide_title=true&bg_color=fdfcf7&color=2C4768&line=2C4768&point=1a2a40&area_color=2C4768" alt="contribution activity, 31 days" />
 </picture>
 
----
-
-### `v.` &nbsp; Correspondence
-
-<sub>`email`</sub> &nbsp; [chning249454@gmail.com](mailto:chning249454@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; <sub>`小红书`</sub> &nbsp; [profile](https://www.xiaohongshu.com/user/profile/) &nbsp;&nbsp;·&nbsp;&nbsp; <sub>`scholar`</sub> &nbsp; [profile](https://scholar.google.com/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lambenthan/Lambenthan/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Lambenthan/Lambenthan/output/github-snake.svg" alt="contribution snake" />
+</picture>
 
 ---
 
