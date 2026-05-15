@@ -12,7 +12,7 @@
 
 <br />
 
-_Graduate researcher at the seam of_ &nbsp;**Audit**&nbsp; / &nbsp;**Large Language Models**&nbsp; / &nbsp;**Causal Inference**&nbsp; / &nbsp;_a quiet writer on 小红书_
+_Graduate researcher at the seam of_ &nbsp;**Audit**&nbsp; / &nbsp;**Large Language Models**&nbsp; / &nbsp;**Causal Inference**_
 
 ---
 
