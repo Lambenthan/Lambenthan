@@ -28,7 +28,7 @@ A graduate researcher at the intersection of audit, finance and large language m
 
 - **On causal inference** — Today it mostly lives inside paper narratives, a way of telling a clean story. I am interested in carrying it past the journal page into the actual decisions an audit team or a firm has to make.
 
-- **On Claude Code** — The piece that turns a three-minute spark into a working artefact. It quietly closes a gap I have long had between curiosity and shipped result.
+- **On Claude Code** — A standing research interest in how coding agents are reshaping empirical workflows, especially in regulated and domain-specific settings.
 
 - **After graduation** — Half research, half on-site, staying in audit, finance and management while sharing what I see at the intersection of LLMs, causal inference and industry practice. If you are scoping a thesis in this area, these field notes may hand you a thread to pull.
 
